@@ -171,8 +171,8 @@ if (!defined('DOKU_INC')) die();
 <hr style="display:block;" /> 
 <?php tpl_license(false);?>
 
-<center><p>tr-money is created by: <a href="http://www.mohdshakir.net/" title="Mohd Shakir Zakaria">Mohd Shakir Zakaria</a> for <a href="http://wiki.oseems.com" title="osWiki">osWiki</a> 
-based on MoneyBlog Wordpress theme by <a href="http://designdisease.com/">Design Disease</a></p> 
+<center><p>tr-money is created by: <a href="https://www.mohdshakir.net/" title="Mohd Shakir Zakaria" rel="nofollow">Mohd Shakir Zakaria</a> for <a href="https://docs.oseems.com" title="osDocs" rel="nofollow">osDocs</a>
+based on MoneyBlog Wordpress theme by <a href="http://designdisease.com/" rel="nofollow">Design Disease</a></p>
 </center>
 </div> 
 <!--End Footer--> 
